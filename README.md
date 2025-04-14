@@ -1,4 +1,4 @@
-# Biblioteca
+# Biblioteca SQL
 Criação de um Banco de Dados tipo Biblioteca no MySql
 
 -- Criação do banco de dados
